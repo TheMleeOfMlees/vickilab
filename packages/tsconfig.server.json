@@ -1,0 +1,22 @@
+{
+  "extends": "@tsconfig/recommended",
+  "compilerOptions": {
+    "target": "ES2019",
+    "lib": ["ES2019"],
+    "moduleResolution": "node",
+    "declaration": true,
+    "module": "ES6",
+    "removeComments": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "sourceMap": true,
+    "incremental": true,
+    "skipLibCheck": true,
+    "strictNullChecks": true,
+    "noImplicitAny": true,
+    "strictBindCallApply": true,
+    "forceConsistentCasingInFileNames": true,
+    "noFallthroughCasesInSwitch": true,
+    "strict": true
+  }
+}

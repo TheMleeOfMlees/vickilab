@@ -1,0 +1,9 @@
+{
+  "packageManager": "yarn@3.0.1",
+  "workspaces": [
+    "packages"
+  ],
+  "volta": {
+    "node": "16.8.0"
+  }
+}
